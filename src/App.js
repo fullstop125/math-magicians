@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Math Magicians 
+          Math Magicians
         </p>
-        
+
       </header>
     </div>
   );

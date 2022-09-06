@@ -1,62 +1,64 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math Magicians
 
-> Description the project.
-
+> This is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations, Read a random math-related quote.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- React Testing Library
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+not available yet
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
 ### Setup
+git clone the repository
+```
+git clone https://github.com/fullstop125/math-magicians/
+```
 
 ### Install
+```
+npm install
+```
 
 ### Usage
+```
+
+npm start
+```
 
 ### Run tests
+```
+npm test
+```
 
 ### Deployment
-
-
+```
+npm run build
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Momanyi Hassan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@fullstop125](https://github.com/fullstop125)
+- Twitter: [@twitterhandle](https://twitter.com/moseshassany)
+- LinkedIn: [momanyi-hassan](https://linkedin.com/in/momanyi-hassan-32a489180/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/fullstop125/math-magicians/issues/).
 
 ## Show your support
 

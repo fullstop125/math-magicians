@@ -20,7 +20,7 @@
   align-items: center;
   height: 50%;
   width: 50%;
-  background-color: #f5f5f5;
+  background-color: #CFD2CF;
 }
 
 .text-area {
@@ -30,10 +30,10 @@
   flex-direction: row;
   justify-content: right;
   align-items: center;
-  background-color: #939393;
+  background-color: #858694;
   color: #fff;
   padding-inline-end: 10px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .button-area {
@@ -59,14 +59,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
-  border: 1px solid #cfd2cf;
+  background-color: #e0e0e0;
+  border: 1px solid #c0c0c0;
   font-size: 30px;
   cursor: pointer;
 }
 
 .row .colored {
-  background-color: rgb(255, 128, 0);
+  background-color: rgba(245,145,62,255);
 }
 
 .row .zero {

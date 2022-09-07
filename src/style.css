@@ -20,7 +20,7 @@
   align-items: center;
   height: 50%;
   width: 50%;
-  background-color: #CFD2CF;
+  background-color: #cfd2cf;
 }
 
 .text-area {
@@ -66,7 +66,7 @@
 }
 
 .row .colored {
-  background-color: rgba(245,145,62,255);
+  background-color: rgba(245, 145, 62, 255);
 }
 
 .row .zero {

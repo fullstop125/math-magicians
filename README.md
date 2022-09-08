@@ -13,34 +13,37 @@
 
 not available yet
 
-
-
 To get a local copy up and running follow these simple example steps.
 
-
 ### Setup
+
 git clone the repository
+
 ```
 git clone https://github.com/fullstop125/math-magicians/
 ```
 
 ### Install
+
 ```
 npm install
 ```
 
 ### Usage
+
 ```
 
 npm start
 ```
 
 ### Run tests
+
 ```
 npm test
 ```
 
 ### Deployment
+
 ```
 npm run build
 ```
@@ -52,7 +55,6 @@ npm run build
 - GitHub: [@fullstop125](https://github.com/fullstop125)
 - Twitter: [@twitterhandle](https://twitter.com/moseshassany)
 - LinkedIn: [momanyi-hassan](https://linkedin.com/in/momanyi-hassan-32a489180/)
-
 
 ## 🤝 Contributing
 
@@ -73,4 +75,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-

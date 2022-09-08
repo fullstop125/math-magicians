@@ -11,6 +11,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 40px;
+ 
 }
 
 .container {
@@ -21,6 +22,7 @@
   height: 50%;
   width: 50%;
   background-color: #cfd2cf;
+  
 }
 
 .text-area {
@@ -34,6 +36,7 @@
   color: #fff;
   padding-inline-end: 10px;
   font-size: 40px;
+
 }
 
 .button-area {

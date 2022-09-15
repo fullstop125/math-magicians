@@ -5,12 +5,13 @@
 }
 
 .calculator {
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   display: flex;
-  justify-content: center;
+  justify-content: right;
   align-items: center;
   margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .container {
@@ -28,7 +29,7 @@
   height: 100px;
   display: flex;
   flex-direction: row;
-  justify-content: right;
+  justify-content: center;
   align-items: center;
   background-color: #858694;
   color: #fff;
@@ -71,4 +72,9 @@
 
 .row .zero {
   width: 200%;
+}
+
+.math-text {
+  font-size: 30px;
+  color: #000;
 }

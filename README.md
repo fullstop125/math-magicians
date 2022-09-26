@@ -11,7 +11,7 @@
 
 ## Live Demo (if available)
 
-https://63233052b3636f4f1611cf86--kaleidoscopic-crumble-770b45.netlify.app/
+https://calculatorappjs.netlify.app
 
 To get a local copy up and running follow these simple example steps.
 
